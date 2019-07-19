@@ -47,7 +47,6 @@ Order, clean and add this endpoints:
 * https://crossproxy.me/
 * https://galvanize-cors-proxy.herokuapp.com/
 * https://cors-buster.now.sh/?href=
-* https://www.test-cors.org/
 * https://jsfiddle.net/1d8cwqo0/1/
 * https://jsfiddle.net/Ln47kyt2/3/
 
@@ -266,6 +265,22 @@ Order, clean and add this endpoints:
         <!-- Download limit  --> <td align="center">❓</td>
         <!-- Country code    --> <td align="center">US</td>
         <!-- Comments        --> <td nowrap>When using raw you loose status information</td>
+      </tr>
+      <tr>
+        <!-- Service         --> <td><a href="https://www.test-cors.org/">Test CORS</a></td>
+        <!-- SSL             --> <td align="center">❓</td>
+        <!-- status          --> <td align="center">❓</td>
+        <!-- Response Type   --> <td align="center">❓</td>
+        <!-- Allowed Methods --> <td align="center">❓</td>
+        <!-- Allowed headers --> <td align="center">❓</td>
+        <!-- Exposed headers --> <td align="center">❓</td>
+        <!-- Follow redirect --> <td align="center">❓</td>
+        <!-- Streamable      --> <td align="center">❓</td>
+        <!-- WebSocket       --> <td align="center">❓</td>
+        <!-- Upload limit    --> <td align="center">❓</td>
+        <!-- Download limit  --> <td align="center">❓</td>
+        <!-- Country code    --> <td align="center">❓</td>
+        <!-- Comments        --> <td nowrap></td>
       </tr>
       <tr>
         <!-- Service         --> <td><a href="https://github.com/Zibri/cloudflare-cors-anywhere">Cloudflare Cors Anywhere</a></td>
