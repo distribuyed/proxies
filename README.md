@@ -1,6 +1,8 @@
 # proxies
 A comprehensive list of CORS proxies.
 
+This project is based on this awesome work of @jimmywarting: https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347
+
 <table>
     <thead>
       <tr>
