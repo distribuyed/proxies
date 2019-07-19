@@ -3,6 +3,54 @@ A comprehensive list of CORS proxies.
 
 This project is based on this awesome work of @jimmywarting: https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347
 
+## To do:
+
+Order, clean and add this endpoints:
+
+* https://api.allorigins.win/raw?url=
+* https://yacdn.org/proxy/
+* http://www.whateverorigin.org/get?url=
+* https://test.cors.workers.dev/?
+* https://universal-cors-proxy.glitch.me/
+* https://jsonp.afeld.me/?callback=&url=
+* http://coin-toss.herokuapp.com/
+* https://crossorigin.me/
+* https://cors-proxy.htmldriven.com/?url=
+* https://cors-anywhere.herokuapp.com/
+* https://api.codetabs.com/v1/proxy?quest=
+* https://codetabs.com/cors-proxy/cors-proxy.html
+* https://cors-proxy.htmldriven.com/?url=
+* https://cors-anywhere.herokuapp.com/
+* https://corsproxy.github.io/
+* http://crossorigin.me/
+* http://cors-proxy.htmldriven.com/?url= // necesita parsearse
+* http://www.whateverorigin.org/get?url= // necesita parsearse // &callback=?
+* https://cors-anywhere.herokuapp.com/
+* https://cors.io/?
+* http://dry-sierra-94326.herokuapp.com/
+* https://thingproxy.freeboard.io/fetch/
+* https://cors.now.sh/
+* https://free-cors-proxy.herokuapp.com
+* https://corsproxy.our.buildo.io
+* http://www.corsify.me/
+* http://gobetween.oklabs.org/pipe/
+* http://cors.hyoo.ru/
+* https://cors4js.appspot.com/?url=
+* http://fuck-cors.com/?url=
+* https://proxy-sauce.glitch.me/
+* http://www.corsproxy.com/			
+* http://goxcors.appspot.com/
+* https://cors-proxy.taskcluster.net
+* http://jsonp.herokuapp.com/
+* http://anyorigin.com/go/?url=
+* http://corsy.rs.af.cm/?get=
+* https://crossproxy.me/
+* https://galvanize-cors-proxy.herokuapp.com/
+* https://cors-buster.now.sh/?href=
+* https://www.test-cors.org/
+* https://jsfiddle.net/1d8cwqo0/1/
+* https://jsfiddle.net/Ln47kyt2/3/
+
 <table>
     <thead>
       <tr>
