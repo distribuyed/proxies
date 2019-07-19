@@ -55,7 +55,7 @@ This project is based on this awesome work of @jimmywarting: https://gist.github
         <!-- Country code    --> <td align="center">US</td>
         <!-- Comments        --> <td nowrap>Require Origin header</td>
       </tr>
-      <tr hidden>  <!-- Down? -->
+      <tr hidden>
         <!-- Service         --> <td><a href="https://cors-proxy.htmldriven.com/">HTML Driven</a></td>
         <!-- SSL             --> <td align="center">✅</td>
         <!-- status          --> <td align="center">❓</td>
@@ -71,7 +71,7 @@ This project is based on this awesome work of @jimmywarting: https://gist.github
         <!-- Country code    --> <td align="center">❓</td>
         <!-- Comments        --> <td nowrap></td>
       </tr>
-      <tr hidden> <!-- Down? -->
+      <tr>
         <!-- Service         --> <td><a href="https://walac.github.io/cors-proxy">Taskcluster</a></td>
         <!-- SSL             --> <td align="center">✅</td>
         <!-- status          --> <td align="center">❓</td>
@@ -87,7 +87,7 @@ This project is based on this awesome work of @jimmywarting: https://gist.github
         <!-- Country code    --> <td align="center">US</td>
         <!-- Comments        --> <td nowrap>All request must be made within the request body<br>Only whitelisted for taskcluster</td>
       </tr>
-      <tr hidden> <!-- Down? -->
+      <tr>
         <!-- Service         --> <td><a href="http://anyorigin.com">anyorigin</a></td>
         <!-- SSL             --> <td align="center">❌</td>
         <!-- status          --> <td align="center">❓</td>
